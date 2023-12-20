@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;;AAKA;;;;AAGA","sources":["css/general.css"],"sourcesContent":["* {\r\n  margin: 0;\r\n  padding: 0;\r\n  box-sizing: border-box;\r\n}\r\nhtml {\r\n  font-size: 62.5%;\r\n}\r\nbody {\r\n  color: #333;\r\n  font-family: \"Signika\", sans-serif;\r\n}\r\n"],"names":[],"version":3,"file":"index.c1ccc107.css.map","sourceRoot":"/__parcel_source_root/"}

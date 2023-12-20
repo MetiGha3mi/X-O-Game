@@ -1,0 +1,97 @@
+.header-section {
+  margin-bottom: 2rem;
+  padding: 1.6rem;
+}
+
+.primary-heading {
+  text-align: center;
+  font-size: 4rem;
+}
+
+.main-section {
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  display: flex;
+}
+
+.player-info-box {
+  justify-content: space-between;
+  width: 50%;
+  display: flex;
+}
+
+.player-name {
+  font-size: 2.2rem;
+}
+
+.player-score {
+  text-align: center;
+  font-size: 4rem;
+}
+
+.red-player-name, .red-player-score {
+  color: #fa5252;
+}
+
+.blue-player-name, .blue-player-score {
+  color: #228be6;
+}
+
+.game-section {
+  margin-bottom: 3.8rem;
+}
+
+.dos-game-box {
+  border-collapse: collapse;
+  background-color: #f0f8ff;
+  grid-template-columns: repeat(3, 1fr);
+  width: 35rem;
+  height: 35rem;
+  display: grid;
+}
+
+.dos-index {
+  cursor: pointer;
+  border: 3px solid #333;
+  justify-content: center;
+  align-items: center;
+  width: 11.75rem;
+  height: 11.75rem;
+  display: flex;
+}
+
+.reset-btn {
+  color: #fefefe;
+  cursor: pointer;
+  background-color: #1098ad;
+  border: none;
+  border-radius: 6px;
+  padding: 1.2rem;
+  font-size: 2rem;
+  transition: all .4s;
+}
+
+.reset-btn:hover {
+  background-color: #0c8599;
+}
+
+.x-game {
+  color: #228be6;
+  width: 8rem;
+  height: 8rem;
+  display: none;
+}
+
+.o-game {
+  color: #fa5252;
+  width: 8rem;
+  height: 8rem;
+  display: none;
+}
+
+.game-on {
+  display: inline-block;
+}
+
+/*# sourceMappingURL=index.b2625c6b.css.map */
